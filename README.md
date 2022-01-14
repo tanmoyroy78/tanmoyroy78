@@ -1,6 +1,7 @@
-### Hey there 👋, I'am Tanmoy Roy
-#### I am a Web Developer
 ![I am a Web Developer](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/s960x960/248903577_1265446663878797_351796029159955806_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHoy2ABfzAn9maE6ry2VLC0lzirObpbk0aXOKs5uluTRjpjAieWriGgcD5yKaDlTgZycaHie_8hc3cNdOgaQWK_&_nc_ohc=u4XrsluHIbkAX_HmMBk&tn=mCFBw8LaI81kXShg&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9yGb2tAjr9s6WCs0-jgBCIwDFZ7bbEPmWSKGu4vHiUkg&oe=61E5CFD7)
+
+### Hey there 👋, I'am Tanmoy Kumar Roy 
+#### I am a Web Developer
 
 I am learning web development. I love working in web development and I can improve my skills by sharing what I have learned with others. I like to solve my problems.
 
